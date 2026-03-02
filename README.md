@@ -1,2 +1,0 @@
-# Antispambot
-Anti spam
